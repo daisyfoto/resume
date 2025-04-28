@@ -48,7 +48,7 @@ Bangkok, Bangkok City, Thailand
 - Understanding of `iOS` and `Android` security implementation data storage like `Keychain`, `Secure Enclave`
 - Experience in implement `e-KYC`, `AML`
 - For AI, I have experience in setup `Cursor` for iOS development team
-- Implement `MCP` for out team to work smoothly with design team
+- Implement `MCP` for our team to work smoothly with design team
 - For Blockchain, I have experience in convert `pancake-swap-sdk` to `Swift` be create `AvantisSwapSDK`
 
 ## 📫 Get in Touch
