@@ -48,7 +48,7 @@ Bangkok, Thailand
 ## 🌟 Achievements
 
 * Built a high-performing team with fast product delivery
-* Ensured no bus factor: all team members capable across codebase
+* Ensured no bus factor: all team members capable across codebase by pairing
 * Achieved 90%+ unit test coverage using Codecov
 * Migrated from Xcode groups to buildable folders to support AI tooling
 * Maintained UI test coverage for all major features
