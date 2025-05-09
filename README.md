@@ -64,6 +64,7 @@ Bangkok, Bangkok City, Thailand
 - For AI, I have experience in setup `Cursor` for iOS development team
 - Implement `MCP` for out team to work smoothly with design team
 - Deep understanding of `Notification system` and `Widget` or `In-app purchase`
+- For Blockchain, I have experience in convert `pancake-swap-sdk` to `Swift` be create `AvantisSwapSDK`
 
 ## Education
 ### Mahanakorn University of Technology
