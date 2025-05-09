@@ -1,19 +1,26 @@
-# Adisak Jarernpol (A)
-# Technical Lead Mobile iOS developer
+# Adisak Jarernpol
+
 <img src="sources/profile.png" width="200" alt="Adisak Jarernpol">
+
+**Technical Lead Mobile iOS developer**
 
 👋 Hi, I'm A , I'm a passionate iOS Tech Lead with 5 years of experience in developing high-quality mobile applications.
 Work in finance industry 8 years, so I have strong understanding of financial products and services.
 
+## 📫 Get in Touch
+- Mobile: [0850592546](tel:+66850592546)
+- LinkedIn: [Adisak Jarernpol](https://www.linkedin.com/in/daisyfoto/)
+- Email: daisyfoto.ai@gmail.com
+
 ## Experience
 
 ### 🚀 R'ket
-**Technical Lead Mobile iOS**  
+**Team Lead Manager iOS**  
 *Nov 2023 - Present · 1 yr 6 mos*  
 Bangkok, Bangkok City, Thailand 
 
 ### 📊 AVA ADVISORY
-**Technical Lead Mobile iOS**  
+**Team Lead Manager iOS**  
 *Jan 2021 - Nov 2023 · 2 yrs 11 mos*  
 
 **Senior Software Engineer**  
@@ -36,10 +43,17 @@ Bangkok, Bangkok City, Thailand
 - Looking help and support careers path for team members
 - Participate in knowledge sharing.
 
+## About Banking and Financial industry
+- Experience in implement `e-KYC`, `AML` with `Thai Bank`
+- Experience in implement `Portfolio Management`
+- Experience in implement `Trade` with `Offshore` `Mutual Fund`
+- Experience in implement stock data from `US Stock Exchange` or `Thai Stock Exchange`
+
 ## 🛠 Technical Skills
 - Expert in iOS skills using `Swift` and `Objective-C`.
+- Expert in `SwiftUI` and `UIKit`
 - Design Patterns `Clean Architecture`, `MVVM`, `MVC`, `MVP`
-- Familiar with CI/CD process, with `Fastlane` and `Jenkins`
+- Familiar with CI/CD process, with `Fastlane` and `Jenkins` by using `Self-hosted` and `Git-hub Actions`
 - Experience in `Codesign` for working with multiple team members
 - Experience with unit both `XCTest` and `SwiftTesting`
 - Experience with UI testing `Cucumber` or `XCUITest`
@@ -49,18 +63,13 @@ Bangkok, Bangkok City, Thailand
 - Experience in implement `e-KYC`, `AML`
 - For AI, I have experience in setup `Cursor` for iOS development team
 - Implement `MCP` for out team to work smoothly with design team
-- For Blockchain, I have experience in convert `pancake-swap-sdk` to `Swift` be create `AvantisSwapSDK`
+- Deep understanding of `Notification system` and `Widget` or `In-app purchase`
 
-## 📫 Get in Touch
-- Mobile: [0850592546](tel:+66850592546)
-- LinkedIn: [Adisak Jarernpol](https://www.linkedin.com/in/daisyfoto/)
-- Email: daisyfoto.ai@gmail.com
+## Education
+### Mahanakorn University of Technology
+- Bachelor's Degree, Computer Engineering
+- 2005 - 2009
 
-## 🎓 Education
-**Mahanakorn University of Technology**  
-Bachelor's Degree, Computer Engineering  
-*2005 - 2009*
-  
 ## 📱 Featured Projects
 
 ### R'ket - Insightful Investment
