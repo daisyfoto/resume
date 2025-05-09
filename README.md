@@ -47,6 +47,7 @@ Bangkok, Thailand
 
 ## 🌟 Achievements
 
+* Built and scaled an iOS team from the ground up
 * Built a high-performing team with fast product delivery
 * Ensured no bus factor: all team members capable across codebase by pairing
 * Achieved 90%+ unit test coverage using Codecov
