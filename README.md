@@ -1,9 +1,9 @@
 <img src="sources/profile.png" width="200" alt="Adisak Jarernpol">
 
 # Adisak Jarernpol
-**iOS Technical Lead**
+**Engineer Manager (iOS)**
 
-Passionate and experienced iOS Technical Lead with 5+ years in mobile development and over 8 years in the financial industry. Skilled in architecture design, team leadership, and delivering scalable, secure, and user-friendly apps. Strong focus on clean code, CI/CD automation, and mentoring engineering teams.
+Passionate and experienced Engineer Manager (iOS) with 5+ years in mobile development and over 8 years in the financial industry. Skilled in architecture design, team leadership, and delivering scalable, secure, and user-friendly apps. Strong focus on clean code, CI/CD automation, and mentoring engineering teams.
 
 ## ✨ Contact Information
 
@@ -15,13 +15,13 @@ Passionate and experienced iOS Technical Lead with 5+ years in mobile developmen
 
 ### R'ket
 
-**Team Lead Manager iOS**
+**Engineer Manager (iOS)**
 *Nov 2023 - Present · 1 yr 6 mos*
 Bangkok, Thailand
 
 ### AVA Advisory
 
-**Team Lead Manager iOS**
+**Engineer Manager (iOS)**
 *Jan 2021 - Nov 2023 · 2 yrs 11 mos*
 **Senior Software Engineer**
 *Apr 2015 - Apr 2020 · 5 yrs 1 mo*
